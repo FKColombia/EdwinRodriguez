@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:López;Viviana;;;
-FN: Viviana López
+N:Rodríguez;Edwin;;;
+FN: Edwin Rodríguez
 ORG: Fresenius Kabi Colombia;
-TITLE: Representante de Promoción y Acceso
-EMAIL;type=INTERNET;type=WORK;type=pref:viviana.lopez@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+573163825713
+TITLE: Especialista de conectividad
+EMAIL;type=INTERNET;type=WORK;type=pref:edwin.rodriguez@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+573155297053
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
